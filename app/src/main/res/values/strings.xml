@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationsManager</string>
+    <string name="show_notification">Fai apparire la notifica</string>
+</resources>
