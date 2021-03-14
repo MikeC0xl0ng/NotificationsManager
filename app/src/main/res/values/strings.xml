@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">NotificationsManager</string>
     <string name="show_notification">Fai apparire la notifica</string>
+    <string name="activity_message_txt">WOW!! Hai cliccato sulla notifica</string>
 </resources>
